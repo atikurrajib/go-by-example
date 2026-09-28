@@ -7,7 +7,7 @@ import (
 	"math"
 )
 
-const s string = "constant"
+const s string = "constants"
 
 func main() {
 
