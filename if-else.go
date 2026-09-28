@@ -28,3 +28,4 @@ func main() {
 		fmt.Println(num, "has multiple digits")
 	}
 }
+
